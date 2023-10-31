@@ -172,7 +172,7 @@ header .navbar ul li a:hover{
 }
 
 .home p{
-    font-size: 1rem;
+    font-size: 2rem;
     color: #eee;
     padding: 1rem 0;
 }
@@ -249,7 +249,7 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 2rem;
+    padding: 1rem;
 }
 .projects .box-container .box{
     height: 10rem;
